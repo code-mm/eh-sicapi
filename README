@@ -1,0 +1,6 @@
+This is an example implementation for the Euler Hermes SIC API.
+
+
+The class Api contains the security attributes and request logic.
+Other files contain the implementation of their respective API counterparts.
+They require the Api class as an instance to operate on the SIC API.
